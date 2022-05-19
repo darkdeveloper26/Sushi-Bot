@@ -1,0 +1,1 @@
+worker: python3 D:\Users\Ethan\mga Documents\skrip\Python\Bot
